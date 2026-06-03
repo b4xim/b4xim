@@ -1,114 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Basim%20👋&fontSize=40&fontColor=00d4ff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descColor=a0aec0" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Basim&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn)
 
 </div>
 
----
-
-### 🧑‍💻 About Me
-
 ```yaml
-name: Basim
-role: Cloud & DevOps Engineer
-location: Kochi, Kerala, India 🇮🇳
-focus: DevOps | DevSecOps | Cloud Infrastructure
-learning: Kubernetes · DevSecOps · GitOps
-open_to: Full-time DevOps / DevSecOps roles (India & UAE)
+role      : Cloud & DevOps Engineer
+location  : Kochi, Kerala, India 🇮🇳
+focus     : DevOps · DevSecOps · Cloud Infrastructure
+learning  : Kubernetes · GitOps · DevSecOps
+open_to   : Full-time DevOps / DevSecOps roles — India & UAE
 ```
 
-- 🔧 I build and automate cloud infrastructure on **AWS & Azure**
-- 🐳 Hands-on with **Docker, Kubernetes, Terraform, Ansible, CI/CD**
-- 📊 I set up observability stacks with **Prometheus, Grafana & Loki**
-- 🔐 Transitioning into **DevSecOps** — shifting security left
-- 🚀 Currently deep in a structured **30-day DevOps interview prep** sprint
+---
+
+### `>` About
+
+- 🏗️ &nbsp;Building and automating cloud infrastructure on **AWS** and **Azure**
+- 🐳 &nbsp;Hands-on with **Docker, Kubernetes, Terraform, Ansible** and **CI/CD** pipelines
+- 📊 &nbsp;Observability stacks using **Prometheus, Grafana** and **Loki**
+- 🔐 &nbsp;Transitioning into **DevSecOps** — shifting security left
+- 🚀 &nbsp;Currently deep in a structured 30-day DevOps interview prep sprint
 
 ---
 
-### 🛠️ Tech Stack
+### `>` Tech Stack
 
-#### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
+#### ☁️ Cloud & IaC
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
 
 #### 🐳 Containers & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
 
 #### 🔁 CI/CD
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white)
 
 #### 📊 Observability
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-%232C3E50.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-%232C3E50.svg?style=flat-square&logo=grafana&logoColor=white)
 
 #### 💻 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🏅 Certifications
+### `>` Certifications
 
-<p>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_AZ--104_Azure_Administrator-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_AZ--900_Azure_Fundamentals-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  </a>
-</p>
+[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/basim-ahamed)
+[![AZ-104](https://img.shields.io/badge/AZ--104_Azure_Administrator-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/basim-ahamed)
+[![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/basim-ahamed)
 
 ---
 
-### 📊 GitHub Stats
+### `>` GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b4xim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4xim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b4xim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e&ring_color=00d4ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4xim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b4xim&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b4xim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=58a6ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+### `>` Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/basim-ahamed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ibasimahmed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basim-ahamed)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibasimahmed@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+
+*`~/b4xim` · built with ❤️ and too many terminal sessions*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer)
+
 </div>
