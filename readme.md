@@ -31,8 +31,6 @@ open_to   : Full-time DevOps / DevSecOps roles — India & UAE
 - 🏗️ &nbsp;Building and automating cloud infrastructure on **AWS** and **Azure**
 - 🐳 &nbsp;Hands-on with **Docker, Kubernetes, Terraform, Ansible** and **CI/CD** pipelines
 - 📊 &nbsp;Observability stacks using **Prometheus, Grafana** and **Loki**
-- 🔐 &nbsp;Transitioning into **DevSecOps** — shifting security left
-- 🚀 &nbsp;Currently deep in a structured 30-day DevOps interview prep sprint
 
 ---
 
