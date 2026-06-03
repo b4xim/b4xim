@@ -38,41 +38,119 @@ open_to   : Full-time DevOps / DevSecOps roles — India & UAE
 
 ### `>` Tech Stack
 
-#### ☁️ Cloud & IaC
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
-
-#### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
-
-#### 🔁 CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white)
-
-#### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-%232C3E50.svg?style=flat-square&logo=grafana&logoColor=white)
-
-#### 💻 Languages & Tools
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br>
+      <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /><br>
+      <sub><b>Terraform</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" /><br>
+      <sub><b>Ansible</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=helm" width="48" height="48" alt="Helm" /><br>
+      <sub><b>Helm</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>
+      <sub><b>GH Actions</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br>
+      <sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab CI" /><br>
+      <sub><b>GitLab CI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /><br>
+      <sub><b>Prometheus</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /><br>
+      <sub><b>Grafana</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>
+      <sub><b>Bash</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>
+      <sub><b>Nginx</b></sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
 ### `>` Certifications
 
-[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/basim-ahamed)
-[![AZ-104](https://img.shields.io/badge/AZ--104_Azure_Administrator-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/basim-ahamed)
-[![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/basim-ahamed)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/users/basim-ahamed">
+        <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
+      </a><br>
+      <sub>Amazon Web Services · Associate</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/users/basim-ahamed">
+        <img src="https://img.shields.io/badge/Microsoft-AZ--104_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0a1628" />
+      </a><br>
+      <sub>Microsoft Azure · Associate</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/users/basim-ahamed">
+        <img src="https://img.shields.io/badge/Microsoft-AZ--900_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0a1628" />
+      </a><br>
+      <sub>Microsoft Azure · Fundamentals</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
