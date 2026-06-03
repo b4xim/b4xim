@@ -79,8 +79,12 @@ open_to   : Full-time DevOps / DevSecOps roles — India & UAE
 ### `>` GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=b4xim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4xim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b4xim&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b4xim&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b4xim&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=b4xim&theme=github_dark" />
 </p>
 
 <p align="center">
