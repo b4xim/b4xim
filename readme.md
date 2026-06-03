@@ -1,8 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Basim&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn)
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Basim+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+K8s+%7C+IaC" alt="Typing SVG" />
+</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/📍_Kochi,_Kerala-India-0d1117?style=flat-square&labelColor=161b22&color=21262d" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-00d4ff?style=flat-square&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-DevOps_·_DevSecOps-58a6ff?style=flat-square&labelColor=161b22" />
+</p>
 
 </div>
+
+---
 
 ```yaml
 role      : Cloud & DevOps Engineer
@@ -67,12 +79,12 @@ open_to   : Full-time DevOps / DevSecOps roles — India & UAE
 ### `>` GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b4xim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e&ring_color=00d4ff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4xim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=b4xim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4xim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b4xim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=58a6ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b4xim&bg_color=0d1117&color=00d4ff&line=58a6ff&point=00d4ff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -80,14 +92,12 @@ open_to   : Full-time DevOps / DevSecOps roles — India & UAE
 ### `>` Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basim-ahamed)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibasimahmed@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibasimahmed@gmail.com)
 
 ---
 
 <div align="center">
 
 *`~/b4xim` · built with ❤️ and too many terminal sessions*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer)
 
 </div>
