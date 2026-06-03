@@ -38,92 +38,38 @@ open_to   : Full-time DevOps / DevSecOps roles — India & UAE
 
 ### `>` Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br>
-      <sub><b>Azure</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /><br>
-      <sub><b>Terraform</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" /><br>
-      <sub><b>Ansible</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>
-      <sub><b>Kubernetes</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=helm" width="48" height="48" alt="Helm" /><br>
-      <sub><b>Helm</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>
-      <sub><b>GH Actions</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br>
-      <sub><b>Jenkins</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab CI" /><br>
-      <sub><b>GitLab CI</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /><br>
-      <sub><b>Prometheus</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /><br>
-      <sub><b>Grafana</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>
-      <sub><b>Bash</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>
-      <sub><b>Nginx</b></sub>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
+
+#### ☁️ Cloud & IaC
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible&theme=dark" />
+</p>
+
+#### 🐳 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="48" height="48" alt="Helm" title="Helm" />
+</p>
+
+#### 🔁 CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab&theme=dark" />
+</p>
+
+#### 📊 Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" width="48" height="48" alt="Loki" title="Loki" />
+</p>
+
+#### 💻 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,git,vscode,nginx&theme=dark" />
+</p>
+
+</div>
 
 ---
 
@@ -173,8 +119,15 @@ open_to   : Full-time DevOps / DevSecOps roles — India & UAE
 
 ### `>` Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basim-ahamed)
-[![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibasimahmed@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/basim-ahamed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-basim--ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628" />
+  </a>
+  &nbsp;
+  <a href="mailto:ibasimahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ibasimahmed@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d1210" />
+  </a>
+</p>
 
 ---
 
