@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-  <img src="https://img.shields.io/badge/📍_Kochi,_Kerala-India-0d1117?style=flat-square&labelColor=161b22&color=21262d" />
+  <img src="https://img.shields.io/badge/📍Kerala-India-0d1117?style=flat-square&labelColor=161b22&color=21262d" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_to_Work-00d4ff?style=flat-square&labelColor=161b22" />
   &nbsp;
