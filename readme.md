@@ -18,7 +18,7 @@
 
 ```yaml
 role      : Cloud & DevOps Engineer
-location  : Kochi, Kerala, India 🇮🇳
+location  : Kerala, India 🇮🇳
 focus     : DevOps · DevSecOps · Cloud Infrastructure
 learning  : Kubernetes · GitOps · DevSecOps
 open_to   : Full-time DevOps / DevSecOps roles — India & UAE
